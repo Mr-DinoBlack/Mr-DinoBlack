@@ -1,6 +1,5 @@
 ### Hey how's it going 👋, I'm Dino a professional data analyst
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dino-black" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dino-black?trk=profile-badge">Dino Black</a></div>
+
  I'm a skilled and motivated business intelligence analyst with over 7+ years of experience in guiding businesses and nonprofits toward achieving their goals. Proficient in Advanced Google Spreadsheets, Tableau, SQL, and Power BI. Known for innovative thinking and the ability to drive organizational alignment with values and interests. I have experience on more than 10 technical projects. My skills include business analytics, data visualization and storytelling, Tableau, Power BI, and SQL. I am passionate about storytelling, and look forward to leveraging my big data and visualzation skills to drive growth, foster creative thinking, and become a trust advisor that stakeholders can count on.
              
               
