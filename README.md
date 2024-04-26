@@ -16,5 +16,6 @@ Fun facts about me
 - 📘 I went to college to major in psychology, and minor in photography. I enjoy pscyhology is everything in life, from health, to sensation & perception, and much more.
 - 🚀Growing up I got a lot of exposure to travel, cooking, working in the service industry as a bartender, and even working in the funeral industry.
 - 👂 Empathy, active listening, and customer service are so important to me, and I've developed the skills to really make them a real thing in life.
-- 🎯 My goal for 2024: is landing my dream job in data, and driving my convertible more this summer!
+- 🎯 My goal for 2024: is landing my dream job in data, and driving my convertible more this summer! Here is my work experience and skillset [Dino Black Resume.pdf](https://github.com/Mr-DinoBlack/Mr-DinoBlack/files/15135766/Dino.Black.Resume.pdf)
+
 -->
